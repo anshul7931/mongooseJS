@@ -1,4 +1,4 @@
 # mongooseJS
 
-npm i
-node app.js
+1.npm i
+2.node app.js
